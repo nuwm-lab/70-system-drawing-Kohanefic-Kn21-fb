@@ -4,6 +4,8 @@ namespace Lab_7
     using System.Drawing;
     using System.Windows.Forms;
 
+
+
     public partial class Form1 : Form
     {
         private bool drawGraph = false;
