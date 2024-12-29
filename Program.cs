@@ -1,4 +1,4 @@
-﻿namespace Lab_7
+namespace Lab_7
 {
     using System;
     using System.Drawing;
@@ -107,3 +107,4 @@
         }
     }
 }
+
